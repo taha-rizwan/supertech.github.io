@@ -70,8 +70,20 @@ background-color: black;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-
-
+.specs{
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 25px;
+  color: rosybrown;
+  text-decoration: none;
+}
+.yeah{
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+  font-size: 25px;
+  color: beige;
+  padding-bottom: 40px;
+}
 @media only screen and (max-width: 600px) {
   .header{
     font-size: 45px;
@@ -92,5 +104,11 @@ background-color: black;
   .ads{
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+  .specs{
+    font-size: 20px;
+  }
+  .yeah{
+    font-size: 20px;
   }
 }
