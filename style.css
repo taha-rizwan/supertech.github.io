@@ -89,4 +89,8 @@ background-color: black;
   .caption{
     font-size: 20px;
   }
+  .ads{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 }
